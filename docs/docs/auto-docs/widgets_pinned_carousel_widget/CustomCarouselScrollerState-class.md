@@ -121,7 +121,8 @@ _<span class="feature">inherited</span>_
 
 
 
-##### [build](../widgets_pinned_carousel_widget/CustomCarouselScrollerState/build.md)([BuildContext](https://api.flutter.dev/flutter/widgets/BuildContext-class.html) context) [Widget](https://api.flutter.dev/flutter/widgets/Widget-class.html)
+##### ([BuildContext](https://api.flutter.dev/flutter/widgets/BuildContext-class.html) context) [Widget](https://api.flutter.dev/flutter/widgets/Widget-class.html)
+
 
 
 

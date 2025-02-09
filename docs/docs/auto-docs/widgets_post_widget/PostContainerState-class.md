@@ -134,7 +134,10 @@ _<span class="feature">inherited</span>_
 
 
 
-##### [build](../widgets_post_widget/PostContainerState/build.md)([BuildContext](https://api.flutter.dev/flutter/widgets/BuildContext-class.html) context) [Widget](https://api.flutter.dev/flutter/widgets/Widget-class.html)
+##### ([BuildContext](https://api.flutter.dev/flutter/widgets/BuildContext-class.html) context) [Widget](https://api.flutter.dev/flutter/widgets/Widget-class.html)
+
+
+
 
 
 
